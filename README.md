@@ -10,6 +10,6 @@ Add Flutter Intl and add arb files as number of language to be supported.
 Use ChangeNotifier to publish changes to registered widget about change in Locale.
 
 
-![Alt Text](https://raw.githubusercontent.com/ankitjamuar/flutter_dynamic_localization/master/gifapp.gif)
+
 
 
